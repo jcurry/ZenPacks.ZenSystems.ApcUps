@@ -110,8 +110,8 @@ Change History
 
 Screenshots
 ===========
-|ApcUpsInfo|
-|ApcUpsBatteriesComponent|
+APC UPS Information Panel |ApcUpsInfo|
+APC UPS Batteries Component |ApcUpsBatteriesComponent|
 
 
 .. External References Below. Nothing Below This Line Should Be Rendered
