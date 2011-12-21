@@ -64,11 +64,11 @@ The ZenPack has the following new Device Class
 
 Requirements & Dependencies
 ===========================
-    Zenoss Versions Supported: 3.0
-    External Dependencies: The APC UPS MIB needs to be available on target devices
-    ZenPack Dependencies:
-    Installation Notes: zopectl restart after installing this ZenPack.
-    Configuration: 
+    * Zenoss Versions Supported: 3.0
+    * External Dependencies: The APC UPS MIB needs to be available on target devices
+    * ZenPack Dependencies:
+    * Installation Notes: zopectl restart after installing this ZenPack.
+    * Configuration: 
 
 Download
 ========
@@ -116,10 +116,10 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.6: http://github.com/jcurry/ZenPacks.community.ApcUps/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
+.. _Latest Package for Python 2.6: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
 
-.. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.community.ApcUps/screen_shots/ApcUpsInformation.jpg
-.. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.community.ApcUps/screen_shots/ApcUpsBatteries.jpg
+.. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screen_shots/ApcUpsInformation.jpg
+.. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screen_shots/ApcUpsBatteries.jpg
 
                                                                         
 
