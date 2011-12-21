@@ -118,8 +118,8 @@ Screenshots
 
 .. _Latest Package for Python 2.6: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
 
-.. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screenshots/ApcUpsInformation.jpg
-.. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screenshots/ApcUpsBatteries.jpg
+.. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsInformation.jpg
+.. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsBatteries.jpg
 
                                                                         
 
