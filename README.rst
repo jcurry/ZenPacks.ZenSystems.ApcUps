@@ -110,16 +110,16 @@ Change History
 
 Screenshots
 ===========
-APC UPS Information Panel |ApcUpsInfo|
-APC UPS Batteries Component |ApcUpsBatteriesComponent|
+|ApcUpsInfo|
+|ApcUpsBatteriesComponent|
 
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
 .. _Latest Package for Python 2.6: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
 
-.. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screen_shots/ApcUpsInformation.jpg
-.. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screen_shots/ApcUpsBatteries.jpg
+.. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screenshots/ApcUpsInformation.jpg
+.. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/screenshots/ApcUpsBatteries.jpg
 
                                                                         
 
