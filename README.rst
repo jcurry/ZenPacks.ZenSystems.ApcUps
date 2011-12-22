@@ -63,11 +63,11 @@ The ZenPack has the following new Device Class
 
 Requirements & Dependencies
 ===========================
-    * Zenoss Versions Supported: 3.0
-    * External Dependencies: The APC UPS MIB needs to be available on target devices
-    * ZenPack Dependencies:
-    * Installation Notes: zopectl restart after installing this ZenPack.
-    * Configuration: 
+     Zenoss Versions Supported: 3.0
+     External Dependencies: The APC UPS MIB needs to be available on target devices
+     ZenPack Dependencies:
+     Installation Notes: zopectl restart after installing this ZenPack.
+     Configuration: 
 
 Download
 ========
@@ -84,14 +84,18 @@ Copy the downloaded .egg to your Zenoss server and run the following commands as
 user::
 
    zenpack --install <package.egg>
-   zenoss restart
+   zenhub restart
+   zopectl restart
 
 Developer Installation (link mode)
 ----------------------------------
 If you wish to further develop and possibly contribute back to this 
 ZenPack you should clone the git repository, then install the ZenPack in
-developer mode.
+developer mode::
 
+   zenpack --link --install <package.egg>
+   zenhub restart
+   zopectl restart
 
 Configuration
 =============
@@ -115,7 +119,7 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.6: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/dist/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
+.. _Latest Package for Python 2.6: https://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/blob/master/dist/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg?raw=true
 
 .. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsInformation.jpg
 .. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsBatteries.jpg
