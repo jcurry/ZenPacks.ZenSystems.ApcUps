@@ -11,53 +11,53 @@ Provides support for APC UPS devices with component and performance information 
 Components
 ==========
 The ZenPack has the following new Device Class
-    /Devices/Power/UPS/ApcUps : 
+    * /Devices/Power/UPS/ApcUps
 
-    Components are: 
-        ApcUpsBattery which has details for: 
-            Various elements of battery status 
+    * Components are: 
+        * ApcUpsBattery which has details for: 
+            * Various elements of battery status 
 
-    Modeler plugins are:   
-        ApcUpsDeviceMap    
-            Gathers Hardware and Software manufacturer and product
-            Serial number
-            Total number of battery packs
-            Number of bad battery packs
-            Basic output status
-        ApcUpsBatteryMap    
-            Gathers battery data for status
-            Time on battery
-            Battery last replacement date
-            Battery replacement indicator
+    * Modeler plugins are:   
+        * ApcUpsDeviceMap    
+            * Gathers Hardware and Software manufacturer and product
+            * Serial number
+            * Total number of battery packs
+            * Number of bad battery packs
+            * Basic output status
+        * ApcUpsBatteryMap    
+            * Gathers battery data for status
+            * Time on battery
+            * Battery last replacement date
+            * Battery replacement indicator
 
-    Device template ApcUps provides device-level performance information:    
-        Data Sources    
-            Voltage
-            Current
-            Remaining capacity and time
-            Temperature 
-        Thresholds    
-            Low capacity
-            Low time remaining
-            High temperature
-        Graph Definitions    
-            Voltage
-            Current
-            Remaining capacity
-            Remaining time
-            Temperature
+    * Device template ApcUps provides device-level performance information:    
+        * Data Sources    
+            * Voltage
+            * Current
+            * Remaining capacity and time
+            * Temperature 
+        * Thresholds    
+            * Low capacity
+            * Low time remaining
+            * High temperature
+        * Graph Definitions    
+            * Voltage
+            * Current
+            * Remaining capacity
+            * Remaining time
+            * Temperature
 
-    Device template ApcUpsInsAndOuts provides specific input / output performance information:    
-        Data Sources    
-            Input frequency and voltage
-            Output frequency, voltage, load and current 
-        Thresholds    
-            High load
-        Graph Definitions    
-            Input frequency and voltage
-            Output frequency, voltage, load and current 
+    * Device template ApcUpsInsAndOuts provides specific input / output performance information:    
+        * Data Sources    
+            * Input frequency and voltage
+            * Output frequency, voltage, load and current 
+        * Thresholds    
+            * High load
+        * Graph Definitions    
+            * Input frequency and voltage
+            * Output frequency, voltage, load and current 
 
-    A separate APC UPS Information menu delivers tabular and graphical  information for the overall device
+    * A separate APC UPS Information menu delivers tabular and graphical  information for the overall device
 
  
 
