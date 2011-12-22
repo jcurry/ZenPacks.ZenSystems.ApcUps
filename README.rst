@@ -18,7 +18,6 @@ The ZenPack has the following new Device Class
             Various elements of battery status 
 
     Modeler plugins are:   
-     
         ApcUpsDeviceMap    
             Gathers Hardware and Software manufacturer and product
             Serial number
@@ -116,7 +115,7 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.6: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
+.. _Latest Package for Python 2.6: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/dist/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
 
 .. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsInformation.jpg
 .. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsBatteries.jpg
