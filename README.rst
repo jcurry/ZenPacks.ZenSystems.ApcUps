@@ -64,11 +64,11 @@ The ZenPack has the following new Device Class
 Requirements & Dependencies
 ===========================
 
-     Zenoss Versions Supported: 3.0
-     External Dependencies: The APC UPS MIB needs to be available on target devices
-     ZenPack Dependencies:
-     Installation Notes: zopectl restart after installing this ZenPack.
-     Configuration: 
+    * Zenoss Versions Supported: 3.0
+    * External Dependencies: The APC UPS MIB needs to be available on target devices
+    * ZenPack Dependencies:
+    * Installation Notes: zopectl restart after installing this ZenPack.
+    * Configuration: 
 
 Download
 ========
