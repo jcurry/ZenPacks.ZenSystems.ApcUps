@@ -1,7 +1,7 @@
 *~
 *.pyc
 *.pyo
-build
+build/
 setuptools*
-*.egg-info
+*.egg-info/
 *EGG-INFO*
