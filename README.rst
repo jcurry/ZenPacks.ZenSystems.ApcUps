@@ -103,7 +103,12 @@ developer mode::
 Configuration
 =============
 
-Tested with Zenoss 3.1 against APC UPS RT 5000 devices
+Tested with Zenoss 3.1 against the following APC UPS devices:
+* 1000RM
+* RT 5000 XL
+* 3000 RM
+* 2200 RM
+
 
 Change History
 ==============
@@ -113,6 +118,8 @@ Change History
    * Some updates for extra debug
 * 1.2
    * Transferred to new github methods
+* 2.0
+   * Tested against Zenoss Core 4.2
 
 Screenshots
 ===========
@@ -122,8 +129,8 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.6: https://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/blob/master/dist/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg?raw=true
-.. _Latest Package for Python 2.7: https://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/blob/master/dist/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg?raw=true
+.. _Latest Package for Python 2.6: https://github.com/downloads/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
+.. _Latest Package for Python 2.7: https://github.com/downloads/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-2.0-py2.7.egg
 
 .. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsInformation.jpg
 .. |ApcUpsBatteriesComponent| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsBatteries.jpg
