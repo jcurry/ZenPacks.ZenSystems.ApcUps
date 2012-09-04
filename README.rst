@@ -130,11 +130,7 @@ Screenshots
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-<<<<<<< HEAD
 .. _Latest Package for Python 2.6: https://github.com/downloads/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg
-=======
-.. _Latest Package for Python 2.6: https://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/blob/master/dist/ZenPacks.ZenSystems.ApcUps-1.2-py2.6.egg?raw=true
->>>>>>> origin/4.x
 .. _Latest Package for Python 2.7: https://github.com/downloads/jcurry/ZenPacks.ZenSystems.ApcUps/ZenPacks.ZenSystems.ApcUps-2.0-py2.7.egg
 
 .. |ApcUpsInfo| image:: http://github.com/jcurry/ZenPacks.ZenSystems.ApcUps/raw/master/screenshots/ApcUpsInformation.jpg
